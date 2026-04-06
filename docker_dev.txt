@@ -1,0 +1,1 @@
+Log: Ambiente Docker para testes de banco configurado.
