@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using PimEstoque.Models;
+using PimEstoque.Models;    
 namespace PimEstoque.Data
 {
     public class PimEstoqueContext : DbContext
@@ -9,5 +9,7 @@ namespace PimEstoque.Data
         }
 
         public DbSet<Produto> Produtos { get; set; }
+        public DbSet<Movimentacao> Movimentacoes { get; set; }
+        public DbSet<Endereco> Enderecos { get; set; }
     }
 }
