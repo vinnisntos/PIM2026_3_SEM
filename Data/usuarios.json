@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Nome": "caua paiva",
+    "Cpf": "62989986324",
+    "Ra": "h5812j3",
+    "DataNascimento": "2006-10-05T00:00:00",
+    "SenhaHash": "cFHEYFuB1hzgDVZde4/J3N9UuN5XBPG5aYPAk0TVLkA=",
+    "SenhaSalt": "HY5ZZRbdU3\u002BHLjNA3Fz/kg==",
+    "CriadoEm": "2026-05-23T00:37:02.7694684-03:00"
+  }
+]
